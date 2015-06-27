@@ -100,5 +100,4 @@ local.properties
 .metadata
 .recommenders
 .classpath
-
-/bin1/
+src/info/goolap/beuth/jdbc/Storage/Person_DataAccessObject/Person_Storage.java
