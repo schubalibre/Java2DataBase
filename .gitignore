@@ -101,3 +101,5 @@ local.properties
 .recommenders
 .classpath
 src/info/goolap/beuth/jdbc/Storage/Person_DataAccessObject/Person_Storage.java
+src/info/goolap/beuth/jdbc/Storage/FBI_DataAccessObject/FBI_Storage.java
+src/info/goolap/beuth/jdbc/Storage/Keyword_DataAccessObject/Keyword_Storage.java
